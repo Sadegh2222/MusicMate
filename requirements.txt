@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+spotdl
+youtube_dl
+lyricsgenius
+requests 
